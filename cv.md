@@ -15,9 +15,9 @@ A passionate frontend developer with a strong foundation in web development, par
 
 ---
 
-### Skills
+## Skills
 
-- **Languages:** JavaScript, TypeScript
+- **Web Technologies:** HTML, JavaScript, TypeScript
 - **Frameworks & Libraries:** React, Redux, React Router, Framer Motion, React Three Fiber
 - **Styling:** CSS, SCSS, styled-components
 - **Tools & Version Control:** Git, npm, Firebase
